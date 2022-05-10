@@ -51,7 +51,7 @@ Configure the DHCP Server service:  <br/>
 <img src="https://i.imgur.com/VLhN7jq.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
 <br />
-Set Up a seperate user for yourself with Domain Admin privilege:  <br/>
+Set up a seperate user for yourself with Domain Admin privilege:  <br/>
   <br/>
 <img src="https://i.imgur.com/f68vnln.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
