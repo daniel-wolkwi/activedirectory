@@ -28,27 +28,32 @@ Get Windows Server 2022 up and online through VirtualBox: <br/>
 <br />
 Clearly identify the internal (for the domain) and external (out to the internet) network adapters:  <br/>
   <br/>
-<img src="https://i.imgur.com/o2aWGGU.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/o2aWGGU.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
 <br />
 Configure the internal network adapter: <br/>
   <br/>
-<img src="https://i.imgur.com/2KIHeyY.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/2KIHeyY.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
 <br />
 Enable these services on the Domain Controller:  <br/>
   <br/>
-<img src="https://i.imgur.com/6l4ia5n.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/6l4ia5n.png" height="80%" width="80%" alt="Active Directory Setup"/>
+<br />
+<br />
+Complete the Post-Deployment configuration for the Active Directory Domain:  <br/>
+  <br/>
+<img src="https://i.imgur.com/p1yfbOM.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
 <br />
 Configure the DHCP Server service:  <br/>
   <br/>
-<img src="https://i.imgur.com/VLhN7jq.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/VLhN7jq.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
 <br />
-Set Up a seperate user for yourself with Domain Admnin privilege:  <br/>
+Set Up a seperate user for yourself with Domain Admin privilege:  <br/>
   <br/>
-<img src="https://i.imgur.com/f68vnln.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/f68vnln.png" height="80%" width="80%" alt="Active Directory Setup"/>
 <br />
 
 <!--
